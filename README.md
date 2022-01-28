@@ -1,3 +1,7 @@
+# goit-js-hw-08
+
+JS homework 08 https://phazzzyo.github.io/goit-js-hw-08/
+
 # Parcel boilerplate
 
 ## Скрытые файлы
